@@ -122,6 +122,7 @@ export default function WalletPage() {
               href="https://github.com/fuyofulo"
               target="_blank"
               className="text-sm font-medium hover:text-red-500"
+              rel="noopener noreferrer"
             >
               Github
             </Link>
@@ -129,18 +130,21 @@ export default function WalletPage() {
               href="https://twitter.com/fuyofulo"
               target="_blank"
               className="text-sm font-medium hover:text-red-500"
+              rel="noopener noreferrer"
             >
               Twitter
             </Link>
             <Link
               href="https://linkedin.com/in/fuyofulo"
               target="_blank"
+              rel="noopener noreferrer"
               className="text-sm font-medium hover:text-red-500"
             >
               LinkedIn
             </Link>
             <Link
               href="https://instagram.com/fuyofulo"
+              rel="noopener noreferrer"
               target="_blank"
               className="text-sm font-medium hover:text-red-500"
             >
