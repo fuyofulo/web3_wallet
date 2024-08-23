@@ -120,24 +120,28 @@ export default function WalletPage() {
           <nav className="ml-auto flex gap-4 sm:gap-6">
             <Link
               href="https://github.com/fuyofulo"
+              target="_blank"
               className="text-sm font-medium hover:text-red-500"
             >
               Github
             </Link>
             <Link
               href="https://twitter.com/fuyofulo"
+              target="_blank"
               className="text-sm font-medium hover:text-red-500"
             >
               Twitter
             </Link>
             <Link
               href="https://linkedin.com/in/fuyofulo"
+              target="_blank"
               className="text-sm font-medium hover:text-red-500"
             >
               LinkedIn
             </Link>
             <Link
               href="https://instagram.com/fuyofulo"
+              target="_blank"
               className="text-sm font-medium hover:text-red-500"
             >
               Instagram
